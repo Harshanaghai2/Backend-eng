@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>All Blog Posts</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="site-header">
+    <h1>My Blog</h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/addPost">Add Post</a>
+    </nav>
+</header>
+
+<section class="container">
+    <h2>All Blog Posts</h2>
+    <div class="post-grid">
+        <% if (posts.length === 0) { %>
+            <p>No posts available.</p>
+        <% } else { %>
+            <% posts.forEach(post => { %>
+                <div class="post-card">
+                    <img src="<%= post.image %>" alt="<%= post.title %>">
+                    <h3><%= post.title %></h3>
+                    <p><%= post.content.substring(0, 50) %>...</p>
+                    <a href="/post?id=<%= post.id %>" class="read-more">Read More</a>
+                </div>
+            <% }); %>
+        <% } %>
+    </div>
+</section>
+
+<footer class="footer">
+    <p>© 2025 My Blog. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

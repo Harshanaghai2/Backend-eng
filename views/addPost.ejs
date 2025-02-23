@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add New Post</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+
+<header class="site-header">
+    <h1>My Blog</h1>
+    <nav>
+        <a href="/">Home</a>
+        <a href="/addPost">Add Post</a>
+    </nav>
+</header>
+
+<!-- Form -->
+<section class="form-container">
+    <h2>Add a New Post</h2>
+    <form action="/addPost" method="POST">
+        <label>Title:</label>
+        <input type="text" name="title" required>
+
+        <label>Content:</label>
+        <textarea name="content" rows="5" required></textarea>
+
+        <label>Image URL (optional):</label>
+        <input type="text" name="image">
+
+        <button type="submit">Publish</button>
+    </form>
+</section>
+
+<footer class="footer">
+    <p>© 2025 My Blog. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

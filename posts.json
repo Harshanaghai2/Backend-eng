@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI",
+    "content": "AI is transforming the world...",
+    "image": "https://images.unsplash.com/photo-1726056652582-7c9d202d4018?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+    "date": "2025-02-23"
+  },
+  {
+    "id": 2,
+    "title": "Space Exploration",
+    "content": "NASA plans to land humans on Mars...",
+    "image": "https://plus.unsplash.com/premium_photo-1738847139735-1d113c9717ef?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8",
+    "date": "2025-02-20"
+  },
+  {
+    "id": 3,
+    "title": "Quantum Computing Advances",
+    "content": "Quantum computers are changing cryptography...",
+    "image": "https://images.unsplash.com/photo-1740165886179-c2be3d6447ca?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8",
+    "date": "2025-02-18"
+  },
+  {
+    "id": 4,
+    "title": "Climate Change and Tech",
+    "content": "Innovations in green energy...",
+    "image": "https://images.unsplash.com/photo-1740166260070-4d129541aa52?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8",
+    "date": "2025-02-15"
+  },
+  {
+    "id": 5,
+    "title": "The Rise of Electric Vehicles",
+    "content": "Tesla and other companies push EV tech...",
+    "image": "https://images.unsplash.com/photo-1739993655680-4b7050ed2896?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1fHx8ZW58MHx8fHx8",
+    "date": "2025-02-12"
+  },
+  {
+    "id": 6,
+    "title": "Metaverse: The Next Internet?",
+    "content": "Will virtual reality replace social media?",
+    "image": "https://plus.unsplash.com/premium_photo-1670279526726-128d22144ad9?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw2fHx8ZW58MHx8fHx8",
+    "date": "2025-02-10"
+  },
+  {
+    "id": 7,
+    "title": "Cybersecurity in 2025",
+    "content": "How to protect your data in a digital world...",
+    "image": "https://images.unsplash.com/photo-1740094714220-1b0c181be46d?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw3fHx8ZW58MHx8fHx8",
+    "date": "2025-02-08"
+  },
+  {
+    "id": 8,
+    "title": "Biotech Revolution",
+    "content": "Genetic engineering and medicine...",
+    "image": "https://images.unsplash.com/photo-1740141340584-a749ceac44a1?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4fHx8ZW58MHx8fHx8",
+    "date": "2025-02-05"
+  },
+  {
+    "id": 9,
+    "title": "The Power of Blockchain",
+    "content": "Decentralization and its impact on finance...",
+    "image": "https://images.unsplash.com/photo-1740239431349-c5c00588150b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw5fHx8ZW58MHx8fHx8",
+    "date": "2025-02-02"
+  },
+  {
+    "id": 10,
+    "title": "knld",
+    "content": "fhafhfh",
+    "image": "/images/default.jpg",
+    "date": "2025-02-23"
+  }
+]
